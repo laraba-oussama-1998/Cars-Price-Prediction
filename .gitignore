@@ -1,0 +1,9 @@
+
+.idea/
+.ipynb_checkpoints/
+
+db.sqlite3
+__init__.py
+venv/
+
+__pycache__/
